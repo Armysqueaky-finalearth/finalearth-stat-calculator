@@ -16,7 +16,7 @@ added academic training options
 
 
 __________________________________________
-TO BE ADDED:
+TO BE ADDED:  
 merge the two of them together  
 turn it into a Google sheet  
 turn into a website and force natty to host for me 
